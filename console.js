@@ -1,4 +1,5 @@
 //try this comment
 console.log("Hello World")
 
-console.log("Hello World in js")
+
+console.log("Hello World")
